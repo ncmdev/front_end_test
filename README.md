@@ -14,6 +14,11 @@ Specs:
 * A user can delete movies from his or her queue. 
 * You should use the full MVC architecture of ember.js. There should at least be a user and a movie model. 
 
+Required Technologies:
+* http://emberjs.com (v1.1.2)
+* http://handlebarsjs.com/ 
+* https://github.com/emberjs/starter-kit/archive/v1.1.2.zip (The "ember js" started kit. You do not need to use this, but it is a handy starting point.)
+
 It is only required that the app come fully packaged (with all depencies either managed with a tool like Bundler, or documented in a readme), and fully functional as specified. The test should be submitted as a github repo, public or private is fine. (If you have issues with this, please reachout via email, and we can arrange a different submission process). 
 
 You'll need to create an API key for themoviedb.com (or whatever other source you use). If you have difficulty or issues with this, please reachout via email. 
