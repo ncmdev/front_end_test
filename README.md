@@ -1,5 +1,5 @@
-front_end_test
-==============
+Frontend Codetest. 
+=================
 
 The essential goal is to create a "movie queue" app using ember.js and handlebars. Those are the only required technologies. There are some specific requirements  specified below, but we encourage you to create the app however you like. Whether you want to server side technologies (like rails or node.js), or a fully complete single page js app is completely up to you. We want to see your style and your creativity. Definitely use as many (or as little) libraries, plugins, or frameworks as you want. It's important to demonstrate how you like to code. Code style, attention to detail, and mastery of the frameworks are what we want to see. Our environment is very colaborative, everyone touches and sees everyone else's code, we would love to see code that we want to work with! 
 
@@ -25,6 +25,6 @@ The following are not required, but would definitely help set you apart from you
 * Make your code "self documenting" and/or rich comments where necessary. 
 * Make it look nice. This isn't a designer position, so we niether expect nor want you to get creative with the visual appeal, but feel free to use any html/css frameworks or themes to give it a polished look. It would be great if you can demonstrate an attention to detail. 
 
-Have fun with this, it's an opporutnity to start off the dialogue as we begin the interview process. We look forward to meeting you! 
+Have fun with this, it's an opporutnity to start off the dialogue as we begin the interview process. Reachout if you have any questions or comments. Otherwise we can't wait to meet you! 
 
 
