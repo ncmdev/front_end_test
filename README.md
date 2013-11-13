@@ -17,7 +17,7 @@ Specs:
 Required Technologies:
 * http://emberjs.com (v1.1.2)
 * http://handlebarsjs.com/ 
-* https://github.com/emberjs/starter-kit/archive/v1.1.2.zip (The "ember js" started kit. You do not need to use this, but it is a handy starting point.)
+* https://github.com/emberjs/starter-kit/archive/v1.1.2.zip (The "ember js" starter kit. You do not need to use this, but it is a handy starting point.)
 
 It is only required that the app come fully packaged (with all depencies either managed with a tool like Bundler, or documented in a readme), and fully functional as specified. The test should be submitted as a github repo, public or private is fine. (If you have issues with this, please reachout via email, and we can arrange a different submission process). 
 
