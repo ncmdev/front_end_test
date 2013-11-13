@@ -33,3 +33,7 @@ The following are not required, but would definitely help set you apart from you
 Have fun with this, it's an opporutnity to start off the dialogue as we begin the interview process. Reachout if you have any questions or comments. Otherwise we can't wait to meet you! 
 
 
+--Bernard Kravitz, GoWatchIt CTO & the GoWatchItteam. 
+
+
+
