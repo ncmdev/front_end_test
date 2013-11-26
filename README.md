@@ -3,7 +3,7 @@ Frontend Codetest.
 
 The essential goal is to create a "movie queue" app using ember.js and handlebars. Those are the only required technologies. There are some specific requirements specified below, but we encourage you to create the app however you like. Whether you want to server side technologies (like rails or node.js), or a fully complete single page js app is completely up to you. We want to see your style and your creativity. Definitely use as many (or as few) libraries, plugins, or frameworks as you want. It's important to demonstrate how you like to code. Code style, attention to detail, and mastery of the frameworks are what we want to see. Our environment is very colaborative, everyone touches and sees everyone else's code, we would love to see code that we want to work with! 
 
-The app should roughly follow this wireframe: https://gwi.hotgloo.com/wf/ad5f59d6#/65ca2f20
+The app should roughly follow this wireframe: https://github.com/plexusent/front_end_test/blob/master/codetest_wire.png
 
 You do not need to strictly adhere to the layout of the wireframe; it is a guide, and the exact pixel-specifics should not get in your way. 
 
